@@ -1,4 +1,4 @@
-![image](https://github.com/Dilip8898/Flight-Fare-Prediction/assets/140335996/08cd3204-9ddd-47a3-9f43-29da7a8ae4dd)# Flight-Fare-Prediction
+# FlIGHT-FARE-PREDICTION
 
 ## Demo
 ![image](https://github.com/Dilip8898/Flight-Fare-Prediction/assets/140335996/e2260e60-c0b0-415d-b252-342147c97457)
