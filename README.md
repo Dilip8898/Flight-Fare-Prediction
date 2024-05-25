@@ -17,20 +17,22 @@ pip install -r requirements.txt
 
 ## Deployement on Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
+
 ![image](https://github.com/Dilip8898/Flight-Fare-Prediction/assets/140335996/e57f8d2e-ed21-405e-a33e-8d7d8abebd05)
+
 Our next step would be to follow the instruction given on Heroku Documentation to deploy a web app.
 
 ## Directory Tree
-├── static 
-│   ├── css
-├── template
-│   ├── home.html
-├── Procfile
-├── README.md
-├── app.py
-├── flight_price.ipynb
-├── flight_rf.pkl
-├── requirements.txt
+- ├── static 
+- │   ├── css
+- ├── template
+- │   ├── home.html
+- ├── Procfile
+- ├── README.md
+- ├── app.py
+- ├── flight_price.ipynb
+- ├── flight_rf.pkl
+- ├── requirements.txt
 
 ## Technologies Used
 ![image](https://github.com/Dilip8898/Flight-Fare-Prediction/assets/140335996/be06682b-8b63-43dc-a63b-147dacfd9336) ![image](https://github.com/Dilip8898/Flight-Fare-Prediction/assets/140335996/95025e20-3393-4d4b-8fbe-7a34356b9346) ![image](https://github.com/Dilip8898/Flight-Fare-Prediction/assets/140335996/7bbe514d-63ab-4c3a-b5bf-c4b1e08f2982)
