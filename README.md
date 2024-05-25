@@ -39,8 +39,8 @@ Our next step would be to follow the instruction given on Heroku Documentation t
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result
 
 ## Future Scope
-Use multiple Algorithms
-Optimize Flask app.py
-Front-End
+- Use multiple Algorithms
+- Optimize Flask app.py
+- Front-End
 
 
