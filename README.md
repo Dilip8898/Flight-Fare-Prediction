@@ -29,7 +29,7 @@ Our next step would be to follow the instruction given on Heroku Documentation t
 ├── requirements.txt
 
 ## Technologies Used
-![image](https://github.com/Dilip8898/Flight-Fare-Prediction/assets/140335996/be06682b-8b63-43dc-a63b-147dacfd9336) ![image](https://github.com/Dilip8898/Flight-Fare-Prediction/assets/140335996/95025e20-3393-4d4b-8fbe-7a34356b9346) ![image](https://github.com/Dilip8898/Flight-Fare-Prediction/assets/140335996/019f01e4-ff1f-412a-a497-898b1ae1495a) ![image](https://github.com/Dilip8898/Flight-Fare-Prediction/assets/140335996/7bbe514d-63ab-4c3a-b5bf-c4b1e08f2982)
+![image](https://github.com/Dilip8898/Flight-Fare-Prediction/assets/140335996/be06682b-8b63-43dc-a63b-147dacfd9336) ![image](https://github.com/Dilip8898/Flight-Fare-Prediction/assets/140335996/95025e20-3393-4d4b-8fbe-7a34356b9346) ![image](https://github.com/Dilip8898/Flight-Fare-Prediction/assets/140335996/7bbe514d-63ab-4c3a-b5bf-c4b1e08f2982)
 
 ## Bug / Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result
